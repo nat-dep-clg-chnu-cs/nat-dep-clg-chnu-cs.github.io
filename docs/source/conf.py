@@ -19,7 +19,7 @@
 
 project = 'Публічна документація'
 copyright = '2022, Природниче Відділення'
-author = 'VVKo'
+author = 'ЦК "Комп\'ютерні науки"'
 
 # The full version, including alpha/beta/rc tags
 release = '0'
