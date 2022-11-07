@@ -1,6 +1,6 @@
 main:
-  - title: "Освітня програма"
-    url: "/OP/"
+  - title: "Документи"
+    url: https://github.com/nat-dep-clg-chnu-cs/nat-dep-clg-chnu-cs.github.io
   - title: "На головну"
     url: https://nat-dep-clg.github.io/
   - title: "КОЛЕДЖ"
