@@ -16,12 +16,14 @@
 
 
 # -- Project information -----------------------------------------------------
+import time
 
-project = 'Публічна документація'
-copyright = '2022, Природниче Відділення'
+project = 'Документи'
+copyright = f'{time.strftime("%Y")}, Природниче Відділення'
 author = 'ЦК "Комп\'ютерні науки"'
 
 # The full version, including alpha/beta/rc tags
+version = '1'
 release = '0'
 
 
